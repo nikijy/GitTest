@@ -8,7 +8,7 @@ namespace GitTest.Controllers
 {
     public class TestController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Index2()
         {
             return View();
         }
