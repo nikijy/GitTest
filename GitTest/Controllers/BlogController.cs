@@ -12,9 +12,5 @@ namespace GitTest.Controllers
         {
             return View();
         }
-        public IActionResult Index7()
-        {
-            return View();
-        }
     }
 }
