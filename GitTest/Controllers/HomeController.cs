@@ -16,5 +16,9 @@ namespace GitTest.Controllers
         {
             return View();
         }
+        public IActionResult Test2()
+        {
+            return View();
+        }
     }
 }
