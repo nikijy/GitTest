@@ -12,6 +12,7 @@ namespace GitTest.Controllers
         public IActionResult RegisterOrLogin()
         {
             Person person = new Person();
+
             person.InviteCode = "123";
             return View();
 
